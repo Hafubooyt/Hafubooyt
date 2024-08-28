@@ -75,6 +75,7 @@ Coder  apasionado por crear interfaces de usuario que enamoren ✨.  Con bases s
 
 <br/>  
 
+<div align="center">Tu donación me permite seguir aprendiendo y desarrollándome</div>  
 <div align="center">
             <a href="https://paypal.me/hafubooyt" target="_blank" style="display: inline-block;">
                 <img
