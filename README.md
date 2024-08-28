@@ -59,22 +59,19 @@ Coder  apasionado por crear interfaces de usuario que enamoren ✨.  Con bases s
 
 ## Github Stats  
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ahafubooyt&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hafubooyt&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=hafubooyt&show_icons=true" />
-</picture>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafubooyt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
 
 ## My play list
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1qRpBJHkpwN5pevXlZYz4e?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div style="display: flex; align-items: center;">
+  <a href="https://open.spotify.com/playlist/1qRpBJHkpwN5pevXlZYz4e?si=721c822949a14cc2" target="_blank">
+    <img style="margin: 10px;" src="Imagenes/spotiy.png" alt="Spotify" height="50" />
+  </a>
 
-  [Listening to on Spotify](https://open.spotify.com/playlist/1qRpBJHkpwN5pevXlZYz4e?si=b0d120aca0e34044)  
+  <a href="https://music.youtube.com/playlist?list=PLWWvuMwsV-PHDz_FSw0c9H_1IhZ6iIdYN&si=T8KQzSz7GHd_4nho" target="_blank">
+    <img style="margin: 10px;" src="Imagenes/Youtube-Music-Logo.png" alt="Youtube Music" height="50" />
+  </a>
+</div>
 
 <br/>  
 
