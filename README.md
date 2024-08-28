@@ -18,7 +18,7 @@ Coder  apasionado por crear interfaces de usuario que enamoren ✨.  Con bases s
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set  :
 
 
 ### Technologies 💻  
@@ -84,5 +84,3 @@ Coder  apasionado por crear interfaces de usuario que enamoren ✨.  Con bases s
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
